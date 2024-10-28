@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
+## Links
+
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/angular-ng-component-outlet?file=README.md)
+
+[GitHub](https://github.com/igor2000xp/angular-ng-component-outlet)
+
+/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/angular-ng-component-outlet
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
